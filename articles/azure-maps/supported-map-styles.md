@@ -69,6 +69,8 @@ This map style is a hybrid of roads and labels overlaid on top of satellite and 
 ![grayscale light](./media/supported-map-styles/grayscale_light.png)
 
 **Applicable APIs:**
+* [Map image](https://docs.microsoft.com/rest/api/maps/render/getmapimage)
+* [Map tile](https://docs.microsoft.com/rest/api/maps/render/getmaptile)
 * Web SDK map control
 * Android map control
 
