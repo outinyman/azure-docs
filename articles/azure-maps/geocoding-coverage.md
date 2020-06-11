@@ -296,5 +296,5 @@ The ability to geocode in a country/region is dependent upon the road data cover
 
 For more information about Azure Maps geocoding, see the [Search](https://docs.microsoft.com/rest/api/maps/search) reference pages.
 
-Learn about the [coverage areas for the Maps traffic service](traffic-coverage.md). 
+Learn about the [coverage areas for the Maps traffic service](traffic-coverage.md).  
 
